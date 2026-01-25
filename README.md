@@ -7,8 +7,3 @@ El objetivo principal es **demostrar el uso de constructores (`__init__`) y dest
 El programa muestra dos escenarios:
 1. Cuando el programador **olvida cerrar un recurso** (archivo).
 2. Cuando el recurso se **cierra correctamente de forma explícita**.
-
----
-
-## Estructura del proyecto
-
